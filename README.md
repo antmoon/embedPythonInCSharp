@@ -1,2 +1,2 @@
 # embedPythonInCSharp
-Use the pythonnet to embed python code into C# project
+Use the pythonnet library to embed python code into C# project
